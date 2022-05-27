@@ -2,7 +2,7 @@
   <h1><strong>Rodrigo Carvalho</strong> <br>Java Developer</h1>
 </div>
 
-- 🌱 Front-end & Spring Boot Student
+- 🌱 Front-end Student
 - 💬 Contact me on eu@rodrigocarvalho.net
 
 <div align="center">
