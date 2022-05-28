@@ -3,7 +3,7 @@
 </div>
 
 - 🌱 Front-end Student
-- 💬 Contact me on eu@rodrigocarvalho.net
+- 💬 Contact me on rodrigocarvalhodev@hotmail.com
 
 <div align="center">
   <a href="https://github.com/rodrigocarvalhodev">
